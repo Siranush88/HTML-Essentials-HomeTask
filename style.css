@@ -1,0 +1,120 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.container {
+    width: 100%;
+    max-width: 983px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    font-family: 'Oswald';
+    font-size: 48px;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: 'Oswald';
+    font-size: 48px;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+}
+
+h4 {
+    font-family: 'Source Sans Pro';
+    font-size: 24px;
+}
+.color1 {
+    color: #ffffff;
+}
+
+.color2 {
+    color: #666666;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-image: url(assets/header-img.png);
+}
+
+header nav ul {
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 32px;
+    text-transform: uppercase;
+}
+
+header a {
+    text-decoration: none;
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+}
+
+header li a {
+    font-size: 14px;
+}
+
+header div.text-centre {
+    padding-top: 184px;
+    padding-bottom: 256px;
+}
+
+/* main */
+
+.section2 {
+    background-image: url(assets/section-img.png);
+}
+
+.section1 button {
+    font-family: "Oswald";
+    color: #ffffff;
+    text-transform: uppercase;
+}
+   
+h4 {
+    padding: 0 235px 0 235px;
+}
+/* footer */
+
+footer {
+    background-color: #464547;
+    padding: 20px 0 38px 0;
+}
+
+footer address,
+footer p,
+footer a {
+    font-family: 'Source Sans Pro';
+    font-size: 16px;
+    color: #FFFFFF66;
+}
+
+footer a {
+        text-decoration: none;
+}
